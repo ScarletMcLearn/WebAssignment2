@@ -1,26 +1,16 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This is a 15 min chat web application.
 
+It initially takes user name on the first page.
 
-Hi there! Welcome to Cloud9 IDE!
+Then takes conversation name on the second page.
 
-To get you started, we included a small hello world application.
+Then a chat interface pops up filled with the username and conversation name.
 
-1) Open the hello-world.html file
+Multiple users can join in on real time and chat with one another.
 
-2) Click on the Preview button to open a live preview pane
+If someone is typing, it will show that 'X is typing...'
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+At the end of 15 mins, the chat session will end and will be saved in the database.
 
-Happy coding!
-The Cloud9 IDE team
+Can start new session.
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
